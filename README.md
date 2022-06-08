@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Paras Varshney, a 4th year undergrad. from DTU(formerly DCE). 
+- 👋 Hi, I’m Paras Varshney, a 3th year undergrad. from DTU(formerly DCE). 
 - 👀 I’m interested in web development and have a knack for solving problems.
 - 🌱 I’m currently learning game building using pygame and on Unity as well.
 - 📫 Email : paras04.18.2001@gmail.com 
